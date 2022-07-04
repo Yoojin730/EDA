@@ -1,7 +1,7 @@
 # EDA : R을 활용한 데이터 분석
 
 ## 과제 1
-stem-leaf, 
+stem-leaf, histplot, data visualization
 
 ## 과제 2
 skewness, kurtosis, boxplot, notch, correlation
