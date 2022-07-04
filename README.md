@@ -1,10 +1,10 @@
 # EDA : R을 활용한 데이터 분석
 
 ## 과제 1
-stem-leaf, histplot, data visualization
+stem-leaf , histplot , data visualization
 
 ## 과제 2
-skewness, kurtosis, boxplot, notch, correlation
+skewness , kurtosis , boxplot , notch , correlation
 
 ## 과제 3
 Data Transformation
@@ -13,11 +13,11 @@ Data Transformation
 Data Distribution
 
 ## 과제 5
-Normality, ROC, ks.test, CDF
+Normality , ROC , ks.test , CDF
 
 ## 과제 6
-Tukey Test, mosaicplot
+Tukey Test , mosaicplot
 
 ## 과제 7
-Time-Series Plot, Data Smoothing
+Time-Series Plot , Data Smoothing
 
